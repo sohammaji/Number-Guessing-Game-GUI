@@ -13,8 +13,9 @@
  1. Make sure you have [**Python** ](https://www.python.org/)(Version 3.6 or higher) installed in your system.
  2. Just download the two files (i.e. number_guessing_game.py & icon.png) and run the number_guessing_game_gui.py file.
 ---
-### Glitches to be fixed in the next version
- 1. Add a scrollable result window.
- 2. Play Again button does not clear the output console.
+### Glitches to be fixed in the next version</br>
+ 1. Add a scrollable result window. ✅
+ 2. Play Again button does not clear the output console. ✅
+ 3. Show previous scores in a different section.
 ---
 #### Thank You!
